@@ -21,13 +21,13 @@ body{
 }
 
 
-@media (min-width: 1024px) and (max-width: 1159px){
+@media (min-width: 1024px) and (max-width: 1160px){
     .navItems{
         font-size:x-small;
     }
 }
 
-@media (min-width: 1159px) and (max-width: 1245px){
+@media (min-width: 1160px) and (max-width: 1245px){
     .navItems{
         font-size:small;
     }
